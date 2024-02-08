@@ -1,5 +1,4 @@
 from re import sub
-
 def solve(q):
 	try:
 		n = (i for i in q if i.isalpha()).__next__()
