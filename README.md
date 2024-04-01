@@ -1,4 +1,4 @@
-# AI-and-Cloud-
+# AI-and-Cloud-Lab
 
 Contains files from AI and Cloud Lab
 
